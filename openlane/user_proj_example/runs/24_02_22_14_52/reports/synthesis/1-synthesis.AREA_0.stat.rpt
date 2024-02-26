@@ -1,0 +1,38 @@
+
+62. Printing statistics.
+
+=== user_proj_example ===
+
+   Number of wires:                 81
+   Number of wire bits:             82
+   Number of public wires:          21
+   Number of public wire bits:      22
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 79
+     shifter                         1
+     sky130_fd_sc_hd__a211o_2        2
+     sky130_fd_sc_hd__a21oi_2        2
+     sky130_fd_sc_hd__a311oi_2       1
+     sky130_fd_sc_hd__a31o_2         2
+     sky130_fd_sc_hd__and2_2         6
+     sky130_fd_sc_hd__and2b_2        1
+     sky130_fd_sc_hd__and3_2         2
+     sky130_fd_sc_hd__and4_2         5
+     sky130_fd_sc_hd__dfrtp_2       18
+     sky130_fd_sc_hd__inv_2         21
+     sky130_fd_sc_hd__nand2_2        2
+     sky130_fd_sc_hd__nand3_2        1
+     sky130_fd_sc_hd__nor2_2         2
+     sky130_fd_sc_hd__o211a_2        2
+     sky130_fd_sc_hd__o21a_2         1
+     sky130_fd_sc_hd__o21ba_2        1
+     sky130_fd_sc_hd__or2_2          1
+     sky130_fd_sc_hd__xnor2_2        5
+     sky130_fd_sc_hd__xor2_2         3
+
+   Area for cell type \shifter is unknown!
+
+   Chip area for module '\user_proj_example': 950.912000
+

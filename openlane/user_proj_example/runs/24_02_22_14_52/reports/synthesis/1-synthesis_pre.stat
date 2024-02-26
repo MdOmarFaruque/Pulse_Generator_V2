@@ -1,0 +1,23 @@
+
+48. Printing statistics.
+
+=== user_proj_example ===
+
+   Number of wires:                 73
+   Number of wire bits:            105
+   Number of public wires:           6
+   Number of public wire bits:      22
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                102
+     $_ANDNOT_                      28
+     $_AND_                          5
+     $_DFF_PP0_                     18
+     $_NAND_                         7
+     $_NOR_                          3
+     $_ORNOT_                       14
+     $_OR_                          11
+     $_XOR_                         15
+     shifter                         1
+
